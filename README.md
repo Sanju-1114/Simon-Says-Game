@@ -49,4 +49,12 @@ You only need a modern web browser (like Chrome, Firefox, or Safari) to run the 
 
 ##  Project Structure
 
-This project uses a standard separation of concerns for web development:
+This project follows a clean and modular structure, separating concerns across HTML, CSS, and JavaScript files:
+
+| File/Folder        | Description |
+|--------------------|-------------|
+| `index.html`       | The main HTML file that sets up the game layout and structure. |
+| `style.css`        | Contains all the styling rules for the game interface, including button colors, layout. |
+| `script.js`        | Implements the game logic: sequence generation, user input handling, level progression, and feedback. |
+
+
