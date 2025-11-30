@@ -73,7 +73,7 @@ You only need a modern web browser (Google Chrome, Firefox, Safari, or Edge) to 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sanju-1114/Simon-Says-Game.git](https://github.com/Sanju-1114/Simon-Says-Game.git)
+    git clone https://github.com/Sanju-1114/Simon-Says-Game.git
     ```
 
 2.  **Navigate to the project directory:**
