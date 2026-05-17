@@ -31,6 +31,8 @@ Test your short-term memory and challenge yourself to follow the progressively c
 
 This project is a web-based implementation of the traditional **Simon** electronic memory game. It utilizes vanilla JavaScript to handle game logic, DOM manipulation, and event handling, providing a lightweight and responsive gaming experience without external frameworks.
 
+---
+
 ##  Features
 
 * **Classic Gameplay:** Replicates the traditional experience with four distinct colored buttons (Red, Green, Blue, Yellow).
